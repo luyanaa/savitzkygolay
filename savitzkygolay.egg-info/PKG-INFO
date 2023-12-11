@@ -1,10 +1,6 @@
-Metadata-Version: 1.0
+Metadata-Version: 2.1
 Name: savitzkygolay
 Version: 1.0
 Summary: Providing Savitzky-Golay filters
-Home-page: UNKNOWN
 Author: Francesco Randi
 Author-email: francesco.randi@gmail.com
-License: UNKNOWN
-Description: UNKNOWN
-Platform: UNKNOWN
